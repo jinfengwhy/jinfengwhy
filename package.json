@@ -1,0 +1,29 @@
+{
+  "name": "jinfengwhy",
+  "version": "1.2.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jinfengwhy": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jinfengwhy"
+  ],
+  "author": "jinfengwhy",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.8",
+    "inquirer": "^8.2.5",
+    "open": "^8.4.0"
+  }
+}
