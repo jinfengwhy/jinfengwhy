@@ -1,6 +1,6 @@
 {
   "name": "jinfengwhy",
-  "version": "1.2.3",
+  "version": "1.2.33",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -13,10 +13,10 @@
     "jinfengwhy"
   ],
   "author": "jinfengwhy",
-  "homepage": "",
+  "homepage": "https://github.com/jinfengwhy/jinfengwhy",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jinfengwhy/jinfengwhy"
   },
   "license": "MIT",
   "dependencies": {

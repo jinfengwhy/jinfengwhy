@@ -29,5 +29,5 @@ jinfengwhy create your_project_name
 
 ````shell
 jinfengwhy addcomponent YourComponentName # 例如jinfengwhy add NavBar，默认会存放到src/components文件夹中
-jinfengwhy addcpn YourComponentName -d src/pages/home # 也可以指定存放的具体文件夹
+jinfengwhy addcomponent YourComponentName -D src/pages/home # 也可以指定存放的具体文件夹
 ````
